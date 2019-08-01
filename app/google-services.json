@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241910206941",
+    "firebase_url": "https://ahead-mobile-pcount.firebaseio.com",
+    "project_id": "ahead-mobile-pcount",
+    "storage_bucket": "ahead-mobile-pcount.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241910206941:android:371e06d9489a2a69",
+        "android_client_info": {
+          "package_name": "com.chasetech.pcount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241910206941-p8nvilab4blbchk21hg7na2k3b69buoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chasetech.pcount",
+            "certificate_hash": "9A54482837C0A571AF412CAE10A6D88BD574F2C7"
+          }
+        },
+        {
+          "client_id": "241910206941-fb4h29rnt88a6p8408bsebhdd40pap2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6N9gmXHtwfccVvp4qxCbhLZFP0rJ2a0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241910206941-fb4h29rnt88a6p8408bsebhdd40pap2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

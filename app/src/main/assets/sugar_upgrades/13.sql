@@ -1,0 +1,1 @@
+ALTER TABLE pcount ADD COLUMN minstock NUMERIC;
